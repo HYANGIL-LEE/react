@@ -1,0 +1,18 @@
+[submodule "hello-react3"]
+	path = hello-react3
+	url = C:/Users/user/react/hello-react3
+[submodule "hooks-tutorial3"]
+	path = hooks-tutorial3
+	url = C:/Users/user/react/hooks-tutorial3
+[submodule "styling-react"]
+	path = styling-react
+	url = C:/Users/user/react/styling-react
+[submodule "styling-react3"]
+	path = styling-react3
+	url = C:/Users/user/react/styling-react3
+[submodule "todo-app2"]
+	path = todo-app2
+	url = C:/Users/user/react/todo-app2
+[submodule "todo-app3"]
+	path = todo-app3
+	url = C:/Users/user/react/todo-app3
